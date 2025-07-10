@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mazen\\Projects\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\mazen\\projects\\cms\\cms.infrasturcture\\cms.infrasturcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\cms.infrasturcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\mazen\\projects\\cms\\cms.core\\cms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\cms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED58E1E0-4BB8-406B-A000-3C923FD53B84}|CMS.Application\\CMS.Application.csproj|d:\\mazen\\projects\\cms\\cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED58E1E0-4BB8-406B-A000-3C923FD53B84}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B49DADD-6B0E-4809-95B5-5198409F5743}|CMS.API\\CMS.API.csproj|d:\\mazen\\projects\\cms\\cms.api\\cms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B49DADD-6B0E-4809-95B5-5198409F5743}|CMS.API\\CMS.API.csproj|solutionrelative:cms.api\\cms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMS.Infrasturcture",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "RelativeToolTip": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:30:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CMS.Core",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj",
+              "RelativeDocumentMoniker": "CMS.Core\\CMS.Core.csproj",
+              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj",
+              "RelativeToolTip": "CMS.Core\\CMS.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:30:06.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CMS.Application",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj",
+              "RelativeDocumentMoniker": "CMS.Application\\CMS.Application.csproj",
+              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj",
+              "RelativeToolTip": "CMS.Application\\CMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:29:47.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CMS.API",
+              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj",
+              "RelativeDocumentMoniker": "CMS.API\\CMS.API.csproj",
+              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj",
+              "RelativeToolTip": "CMS.API\\CMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:28:49.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
