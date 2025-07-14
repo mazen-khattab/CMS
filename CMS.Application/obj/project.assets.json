@@ -1924,23 +1924,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mazen\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj",
+      "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
       "projectName": "CMS.Application",
-      "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj",
-      "packagesPath": "C:\\Users\\mazen\\.nuget\\packages\\",
-      "outputPath": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\obj\\",
+      "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mazen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1955,8 +1955,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj": {
-              "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj"
+            "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
+              "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj"
             }
           }
         }
@@ -1971,7 +1971,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -2006,7 +2006,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

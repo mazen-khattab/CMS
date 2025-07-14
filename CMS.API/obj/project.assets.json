@@ -63,6 +63,19 @@
           }
         }
       },
+      "FluentValidation/12.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -3462,6 +3475,7 @@
           "AutoMapper": "14.0.0",
           "CMS.Application": "1.0.0",
           "CMS.Core": "1.0.0",
+          "FluentValidation": "12.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.2",
           "Microsoft.EntityFrameworkCore": "9.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2"
@@ -3527,6 +3541,21 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentValidation/12.0.0": {
+      "sha512": "8NVLxtMUXynRHJIX3Hn1ACovaqZIJASufXIIFkD0EUbcd5PmMsL1xUD5h548gCezJ5BzlITaR9CAMrGe29aWpA==",
+      "type": "package",
+      "path": "fluentvalidation/12.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.12.0.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net8.0/FluentValidation.dll",
+        "lib/net8.0/FluentValidation.xml"
       ]
     },
     "Humanizer/2.14.1": {
@@ -9016,23 +9045,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mazen\\.nuget\\packages\\": {},
+    "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj",
+      "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
       "projectName": "CMS.API",
-      "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj",
-      "packagesPath": "C:\\Users\\mazen\\.nuget\\packages\\",
-      "outputPath": "D:\\Mazen\\Projects\\CMS\\CMS.API\\obj\\",
+      "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mazen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -9047,14 +9076,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj": {
-              "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj"
+            "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj": {
+              "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj"
             },
-            "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj": {
-              "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj"
+            "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
+              "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj"
             },
-            "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj": {
-              "projectPath": "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj"
+            "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj": {
+              "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj"
             }
           }
         }
@@ -9069,7 +9098,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -9133,7 +9162,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
