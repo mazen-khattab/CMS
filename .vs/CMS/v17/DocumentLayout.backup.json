@@ -1,21 +1,133 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Mazen\\Projects\\CMS\\",
+  "WorkspaceRootPath": "D:\\Backend\\CMS-master\\CMS-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\mazen\\projects\\cms\\cms.infrasturcture\\cms.infrasturcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\taskconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\taskconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\studentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\studentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\adminconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\adminconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\solutionconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\solutionconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\sessiongroupconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\sessiongroupconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\sessiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\sessiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\sessionconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\sessionconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\paymentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\paymentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\instructorconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\instructorconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\groupstudentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\groupstudentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\groupstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\groupstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\groupinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\groupinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\groupinstructorconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\groupinstructorconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\attendanceconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\attendanceconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\groupconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\groupconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\categoryconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\configrations\\courseconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\configrations\\courseconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\backend\\cms-master\\cms-master\\cms.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|d:\\backend\\cms-master\\cms-master\\cms.infrasturcture\\cms.infrasturcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EF02A2D8-1831-4F51-9D11-74281FE6FB97}|CMS.Infrasturcture\\CMS.Infrasturcture.csproj|solutionrelative:cms.infrasturcture\\cms.infrasturcture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|d:\\mazen\\projects\\cms\\cms.core\\cms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85379785-7E9B-44B0-8B96-0A2D61A32273}|CMS.Core\\CMS.Core.csproj|solutionrelative:cms.core\\cms.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED58E1E0-4BB8-406B-A000-3C923FD53B84}|CMS.Application\\CMS.Application.csproj|d:\\mazen\\projects\\cms\\cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{ED58E1E0-4BB8-406B-A000-3C923FD53B84}|CMS.Application\\CMS.Application.csproj|d:\\backend\\cms-master\\cms-master\\cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{ED58E1E0-4BB8-406B-A000-3C923FD53B84}|CMS.Application\\CMS.Application.csproj|solutionrelative:cms.application\\cms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B49DADD-6B0E-4809-95B5-5198409F5743}|CMS.API\\CMS.API.csproj|d:\\mazen\\projects\\cms\\cms.api\\cms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4B49DADD-6B0E-4809-95B5-5198409F5743}|CMS.API\\CMS.API.csproj|d:\\backend\\cms-master\\cms-master\\cms.api\\cms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4B49DADD-6B0E-4809-95B5-5198409F5743}|CMS.API\\CMS.API.csproj|solutionrelative:cms.api\\cms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -31,54 +143,387 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CMS.Infrasturcture",
-              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
-              "RelativeDocumentMoniker": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
-              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj*",
-              "RelativeToolTip": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T09:30:21.122Z",
+              "Title": "TaskConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\TaskConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\TaskConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\TaskConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\TaskConfigration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:39:15.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CMS.Core",
-              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj",
-              "RelativeDocumentMoniker": "CMS.Core\\CMS.Core.csproj",
-              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Core\\CMS.Core.csproj*",
-              "RelativeToolTip": "CMS.Core\\CMS.Core.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T09:30:06.758Z",
-              "EditorCaption": ""
+              "Title": "StudentConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\StudentConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\StudentConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\StudentConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\StudentConfigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:37:14.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CMS.Application",
-              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj",
-              "RelativeDocumentMoniker": "CMS.Application\\CMS.Application.csproj",
-              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.Application\\CMS.Application.csproj*",
-              "RelativeToolTip": "CMS.Application\\CMS.Application.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T09:29:47.457Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "SolutionConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SolutionConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\SolutionConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SolutionConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\SolutionConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:32:01.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionGroupConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SessionGroupConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\SessionGroupConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SessionGroupConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\SessionGroupConfigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:30:12.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SessionConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SessionConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\SessionConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\SessionConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\SessionConfigration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA6wBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:28:20.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\PaymentConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\PaymentConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\PaymentConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\PaymentConfigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:26:34.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InstructorConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\InstructorConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\InstructorConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\InstructorConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\InstructorConfigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:23:35.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroupStudentConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupStudentConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\GroupStudentConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupStudentConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\GroupStudentConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:19:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroupInstructorConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupInstructorConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\GroupInstructorConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupInstructorConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\GroupInstructorConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:16:53.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GroupConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\GroupConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\GroupConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\GroupConfigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:14:12.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\CourseConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\CourseConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\CourseConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\CourseConfigration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:12:14.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\CategoryConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\CategoryConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\CategoryConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\CategoryConfigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:09:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\AttendanceConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\AttendanceConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\AttendanceConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\AttendanceConfigration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:57:45.662Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CMS.API",
-              "DocumentMoniker": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj",
+              "Title": "AdminConfigration.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\AdminConfigration.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Configrations\\AdminConfigration.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Configrations\\AdminConfigration.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Configrations\\AdminConfigration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:49:29.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "CMS.Infrasturcture\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:35:54.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionGroup.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\SessionGroup.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\SessionGroup.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\SessionGroup.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\SessionGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:37:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupStudent.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\GroupStudent.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\GroupStudent.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\GroupStudent.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\GroupStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:35:35.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroupInstructor.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\GroupInstructor.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\GroupInstructor.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\GroupInstructor.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\GroupInstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:32:43.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Attendance.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Attendance.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:23:27.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Payment.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Payment.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:16:25.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Solution.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Solution.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Solution.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Solution.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:11:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Task.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Task.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Task.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:07:16.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Session.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Session.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Session.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T19:01:26.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Admin.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Admin.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:35:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Student.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:31:31.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Instructor.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Instructor.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Instructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:29:19.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Group.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Group.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Group.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:14:51.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Course.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Course.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:10:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CMS.Core\\Entities\\Category.cs",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "CMS.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T18:05:11.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CMS.Infrasturcture.csproj",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "RelativeDocumentMoniker": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "RelativeToolTip": "CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:30:21.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CMS.Application.csproj",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
+              "RelativeDocumentMoniker": "CMS.Application\\CMS.Application.csproj",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
+              "RelativeToolTip": "CMS.Application\\CMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T09:29:47.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CMS.API.csproj",
+              "DocumentMoniker": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
               "RelativeDocumentMoniker": "CMS.API\\CMS.API.csproj",
-              "ToolTip": "D:\\Mazen\\Projects\\CMS\\CMS.API\\CMS.API.csproj*",
-              "RelativeToolTip": "CMS.API\\CMS.API.csproj*",
+              "ToolTip": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
+              "RelativeToolTip": "CMS.API\\CMS.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T09:28:49.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T09:28:49.238Z"
             }
           ]
         }
