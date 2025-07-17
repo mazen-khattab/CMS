@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CMS.Core.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,7 +17,7 @@ namespace CMS.Core.Entities
         public int? StudentId { get; set; }
         public Student? Student { get; set; }
 
-        public string Status { get; set; } = "Present";
+        public AttendanceStatus AttendanceStatus { get; set; } = AttendanceStatus.Present;
         public string? Note { get; set; } = "Present";
     }
 }

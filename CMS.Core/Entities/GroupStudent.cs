@@ -8,6 +8,8 @@ namespace CMS.Core.Entities
 {
     public class GroupStudent
     {
+        public int GroupStudentId { get; set; }
+
         public int GroupId { get; set; }
         public Group Group { get; set; } = null!;
 

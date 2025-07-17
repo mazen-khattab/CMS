@@ -22,3 +22,16 @@ D:\Backend\CMS-master\CMS-master\CMS.Core\bin\Debug\net9.0\CMS.Core.deps.json
 D:\Backend\CMS-master\CMS-master\CMS.Core\bin\Debug\net9.0\CMS.Core.dll
 D:\Backend\CMS-master\CMS-master\CMS.Core\bin\Debug\net9.0\CMS.Core.pdb
 D:\Backend\CMS-master\CMS-master\CMS.Core\obj\Debug\net9.0\ref\CMS.Core.dll
+C:\Users\mohamed\Desktop\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.deps.json
+C:\Users\mohamed\Desktop\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.dll
+C:\Users\mohamed\Desktop\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.pdb
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.csproj.AssemblyReference.cache
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.AssemblyInfoInputs.cache
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.AssemblyInfo.cs
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.sourcelink.json
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.dll
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\refint\CMS.Core.dll
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.pdb
+C:\Users\mohamed\Desktop\CMS\CMS.Core\obj\Debug\net9.0\ref\CMS.Core.dll
