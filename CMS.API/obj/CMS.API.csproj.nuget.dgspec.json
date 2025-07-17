@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj": {}
+    "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.API\\CMS.API.csproj": {}
   },
   "projects": {
-    "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj": {
+    "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.API\\CMS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
+        "projectUniqueName": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.API\\CMS.API.csproj",
         "projectName": "CMS.API",
-        "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\CMS.API.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.API\\obj\\",
+        "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.API\\CMS.API.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj"
               },
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj"
               },
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj"
               }
             }
           }
@@ -54,7 +54,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -62,29 +62,29 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[15.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
@@ -96,7 +96,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.2.0, )"
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -118,24 +118,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj": {
+    "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
+        "projectUniqueName": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj",
         "projectName": "CMS.Application",
-        "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\obj\\",
+        "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -150,8 +150,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj"
               }
             }
           }
@@ -166,15 +166,23 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
@@ -201,24 +209,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
+    "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj",
         "projectName": "CMS.Core",
-        "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\obj\\",
+        "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -245,7 +253,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -253,7 +261,7 @@
           "dependencies": {
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             }
           },
           "imports": [
@@ -272,24 +280,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj": {
+    "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
-        "projectName": "CMS.Infrasturcture",
-        "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\CMS.Infrasturcture.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Infrasturcture\\obj\\",
+        "projectUniqueName": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+        "projectName": "CMS.Infrastructure",
+        "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\CMS.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mohamed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -304,11 +312,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Application\\CMS.Application.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Application\\CMS.Application.csproj"
               },
-              "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj": {
-                "projectPath": "D:\\Backend\\CMS-master\\CMS-master\\CMS.Core\\CMS.Core.csproj"
+              "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj": {
+                "projectPath": "C:\\Users\\mohamed\\Desktop\\CMS\\CMS.Core\\CMS.Core.csproj"
               }
             }
           }
@@ -323,7 +331,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -331,7 +339,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[15.0.1, )"
             },
             "FluentValidation": {
               "target": "Package",
@@ -339,21 +347,21 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.2, )"
+              "version": "[9.0.7, )"
             }
           },
           "imports": [
@@ -372,7 +380,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

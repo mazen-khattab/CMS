@@ -8,10 +8,12 @@ namespace CMS.Core.Entities
 {
     public class SessionGroup
     {
-        public int SessionId { get; set; }
-        public Session Session { get; set; } = null!;
+        public int SessionGroupId { get; set; }
 
-        public int GroupId { get; set; }
-        public Group Group { get; set; } = null!;
+        public int? SessionId { get; set; } // FK
+        public Session? Session { get; set; } // RNP
+
+        public int? GroupId { get; set; } // FK
+        public Group? Group { get; set; } // RNP
     }
 }
